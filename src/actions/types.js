@@ -1,0 +1,2 @@
+export const AUTH_SIGN_IN = 'AUTH_SIGN_UP';
+export const AUTH_SIGN_IN_ERROR = 'AUTH_SIGN_IN_ERROR';

@@ -1,0 +1,6 @@
+{
+  "name": "UserList_ListTaskDaily",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./UserList_ListTaskDaily.js"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PlanningDaily_Create",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PlanningDaily_Create.js"
+}

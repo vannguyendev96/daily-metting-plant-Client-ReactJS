@@ -1,0 +1,6 @@
+{
+  "name": "PlanningYear_Detail",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PlanningYear_Detail.js"
+}
